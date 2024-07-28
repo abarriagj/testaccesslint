@@ -21,9 +21,11 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+        <button>asddsa</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <input /> Do it
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
